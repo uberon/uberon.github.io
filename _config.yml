@@ -1,8 +1,8 @@
 name: Uberon
 markdown: redcarpet
 pygments: true
-baseurl: /anatomy
-imgurl: /anatomy/images
+baseurl: 
+imgurl: /images
 speciesAOs: [xao, zfa]
 
 distributions:
