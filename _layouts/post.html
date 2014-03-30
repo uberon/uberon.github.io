@@ -24,8 +24,8 @@ layout: default
     </div>
     
     <div class="pager hidden-phone hidden-tablet">
-        <a class="prev" href="{{site.baseurl}}{{ page.previous.url }}" title="Previous Post: {{page.previous.title}}"><i class="icon-arrow-left icon-white"></i></a>
-        <a class="next" href="{{site.baseurl}}{{ page.next.url }}" title="Previous Post: {{page.next.title}}"><i class="icon-arrow-right icon-white"></i></a>
+        <a class="prev" href="{{ page.previous.url }}" title="Previous Post: {{page.previous.title}}"><i class="icon-arrow-left icon-white"></i></a>
+        <a class="next" href="{{ page.next.url }}" title="Previous Post: {{page.next.title}}"><i class="icon-arrow-right icon-white"></i></a>
     </div>
     
     <div class="row">	
@@ -33,7 +33,7 @@ layout: default
             <p>
               <i>{{ page.author}}</i>
               <i class="icon-calendar"></i> {{ page.date | date: "%B %e, %Y" }}
-              | <i class="icon-comment"></i> <a href="{{ site.baseurl }}{{ page.url }}#disqus_thread""></a>     
+              | <i class="icon-comment"></i> <a href="{{ page.url }}#disqus_thread""></a>     
               <br />
               <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.project.twitter }}">Tweet</a> <g:plusone size="medium"></g:plusone></h5>
             </p>
