@@ -1,0 +1,24 @@
+name: Uberon
+markdown: redcarpet
+pygments: true
+baseurl: /anatomy
+imgurl: /anatomy/images
+speciesAOs: [xao, zfa]
+
+distributions:
+    taxon_subsets: [euarchontoglires, aves, amniote]
+    system_subsets: [appendicular-minimal, circulatory-minimal, life-stages-composite, life-stages-minimal, sensory-minimal, nervous-minimal, immune-minimal, excretory-minimal, pulmonary-minimal]
+    mapped_ontologies: [ehdaa2, fma, xao, zfa, fbbt, ma, vsao, tao, emapa , sctid, bto, nif_grossanatomy, fbbt, wbbt, aba, ncithesaurus, bila, caro]
+
+project:
+    name: Uberon
+    github: 
+       org: obophenotype
+       repo: uberon
+    twitter: uberanat
+    googleplus: https://plus.google.com/118292284431535789477
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: intheatticuk
