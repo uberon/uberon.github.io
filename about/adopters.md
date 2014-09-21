@@ -75,6 +75,8 @@ for describing biological samples and phenotypes. Recently, Uberon was
 integrated with the EFO (Experimental Factory Ontology), developed by
 the SPOT group.
 
+ * See [EBI annual report 2013](http://www.ebi.ac.uk/sites/ebi.ac.uk/files/groups/external_relations/Documents/EMBL_EBI_Annual_Report_2013_lo_3.pdf)
+
 ## eagle i
 
 The eagle i project uses Uberon anatomical structures to collect
@@ -175,6 +177,12 @@ Screening Data from the Library of Integrated Network-based Cellular
 Signatures
 (LINCS)](http://jbx.sagepub.com/content/early/2014/02/11/1087057114522514.full)
 
+## The Alexandria Archive Institute
 
+In September, 2012, the AAI launched [Exploring Biogeography of Early Domestic Animals using Linked Open Data](http://alexandriaarchive.org/projects/linked-data/), a one-year project using Linked Open Data to enhance archaeological data sets. Skeletal element data are also linked using Uberon.
 
+See:
+
+ * [http://alexandriaarchive.org/projects/linked-data/](http://alexandriaarchive.org/projects/linked-data/)
+ * [Mixing Models for Communicating Research Data in Archaeology](http://alexandriaarchive.org/wp-content/uploads/2012/11/idcc14-Kansa-Kansa-Arbuckle-researchpaper-final.pdf), Kansa et al, International Journal for Digital Curation,Vol 9, No. 1 (2014)
 
