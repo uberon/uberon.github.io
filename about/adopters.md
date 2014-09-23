@@ -185,4 +185,3 @@ See:
 
  * [http://alexandriaarchive.org/projects/linked-data/](http://alexandriaarchive.org/projects/linked-data/)
  * [Mixing Models for Communicating Research Data in Archaeology](http://alexandriaarchive.org/wp-content/uploads/2012/11/idcc14-Kansa-Kansa-Arbuckle-researchpaper-final.pdf), Kansa et al, International Journal for Digital Curation,Vol 9, No. 1 (2014)
-
