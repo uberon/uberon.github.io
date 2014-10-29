@@ -66,7 +66,6 @@ phenotype mapping component of this project.
 See the [Monarch Initiative website](http://monarchinitiative.org) for
 more details
 
-
 ## EBI
 
 The EBI [Samples Phenotypes and Ontology
@@ -76,6 +75,19 @@ integrated with the EFO (Experimental Factory Ontology), developed by
 the SPOT group.
 
  * See [EBI annual report 2013](http://www.ebi.ac.uk/sites/ebi.ac.uk/files/groups/external_relations/Documents/EMBL_EBI_Annual_Report_2013_lo_3.pdf)
+
+## Global Alliance for Genomes and Health
+
+The [Global Alliance for Genomes and Health](http://genomicsandhealth.org/) is an
+international coalition, dedicated to improving human health by
+maximizing the potential of genomic medicine through effective and
+responsible data sharing.
+
+The [Global Alliance Data Working Group](http://ga4gh.org) has
+proposed Uberon and the CL as a standard for the description of
+biological samples. See the metadata schema:
+
+ * [Metadata Schema](https://github.com/ga4gh/schemas/blob/master/src/main/resources/avro/wip/metadata.avdl)
 
 ## eagle i
 
