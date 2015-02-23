@@ -17,6 +17,38 @@ project:
        repo: uberon
     twitter: uberanat
     googleplus: https://plus.google.com/118292284431535789477
+    contributors:
+      - id: http://github.com/cmungall
+        name: Chris Mungall
+        role: editor
+        orcid: http://orcid.org/0000-0002-6601-2165
+      - id: http://github.com/mellybelly
+        name: Melissa Haendel
+        role: editor
+      - id: http://github.com/balhoff
+        name: Jim Balhoff
+        role: technical
+        domain: vertebrate skeletal
+      - id: http://github.com/skansa
+        name: Sarah Whitcher Kansa
+        orcid: https://orcid.org/0000-0001-7920-5321
+        role: contributor
+        domain: zooarchaeology
+      - id: http://github.com/dosumis
+        name: David Osumi-Sutherland
+        role: editor
+      - id: http://github.com/rdruzinsky
+        name: Robert Druzisnky
+        role: contributor
+        domain: musculature
+      - id: http://github.com/memartone
+        name: Maryann Martone
+        role: contributor
+        domain: neuroanatomy
+      - id: http://github.com/twhetzel
+        name: Trish Whetzel
+        role: technical
+        domain: neuroanatomy
 
 comments:
     provider: disqus
