@@ -166,7 +166,14 @@ See *Hatano et al* [in Database](http://database.oxfordjournals.org/content/2011
 
 ## International Human Epigenomics Consortium
 
+The International Human Epigenome Consortium (IHEC) is a global
+consortium with the primary goal of providing free access to
+high-resolution reference human epigenome maps for normal and disease
+cell types to the research community. IHEC is working to define
+standards for epigenomic mapping and metadata. Uberon and CL are the
+IHEC standard ontologies for tissue and cell line names.
 
+For more details, see the [IHEC Standards](http://ihec-epigenomes.org/research/reference-epigenome-standards/) page.
 
 ## NIH LINCS
 
