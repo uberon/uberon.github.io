@@ -134,6 +134,13 @@ The ENCODE Data Collection Center (DCC) uses a core set of ontologies:
 
 [ENCODE](http://www.genome.gov/Encode/)
 
+Malladi, V. S., Erickson, D. T., Podduturi, N. R., Rowe, L. D., Chan,
+E. T., Davidson, J. M., … Hong, E. L. (2015). Ontology application and use at the ENCODE DCC.
+*Database : The Journal of Biological Databases and Curation*, 2015, bav010–. [doi:10.1093/database/bav010](http://dx.doi.org/doi:10.1093/database/bav010)
+
+Sloan, C. A., Chan, E. T., Davidson, J. M., Malladi, V. S., Strattan, J. S., Hitz, B. C., … Cherry, J. M. (2015). ENCODE data at the ENCODE portal. 
+*Nucleic Acids Research*, gkv1160–. [doi:10.1093/nar/gkv1160](doi:10.1093/nar/gkv1160)
+
 ## neXtProt
 
 neXtProt is an on-line knowledge platform on human proteins. It
