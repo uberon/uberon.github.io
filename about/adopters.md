@@ -122,7 +122,7 @@ research consortium named ENCODE, the Encyclopedia Of DNA Elements, in
 September 2003, to carry out a project to identify all functional
 elements in the human genome sequence.
 
-The ENCODE Data Collection Center (DCC) uses a core set of ontologies:
+The [ENCODE](https://www.encodeproject.org) Data Collection Center (DCC) uses a core set of ontologies:
 
  * UBERON
  * CL
@@ -132,7 +132,7 @@ The ENCODE Data Collection Center (DCC) uses a core set of ontologies:
  * SO
  * GO
 
-[ENCODE](http://www.genome.gov/Encode/)
+See [ENCODE DCC Ontologies](https://www.encodeproject.org/help/getting-started/#Ontologies)
 
 Malladi, V. S., Erickson, D. T., Podduturi, N. R., Rowe, L. D., Chan,
 E. T., Davidson, J. M., … Hong, E. L. (2015). Ontology application and use at the ENCODE DCC.
