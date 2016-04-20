@@ -1,5 +1,5 @@
 name: Uberon
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 baseurl: /
 imgurl: /images
