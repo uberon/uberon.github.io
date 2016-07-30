@@ -6,7 +6,7 @@ imgurl: /images
 speciesAOs: [xao, zfa]
 
 distributions:
-    taxon_subsets: [euarchontoglires, aves, amniote]
+    taxon_subsets: [mouse]
     system_subsets: [appendicular-minimal, circulatory-minimal, life-stages-composite, life-stages-minimal, sensory-minimal, nervous-minimal, immune-minimal, excretory-minimal, pulmonary-minimal]
     mapped_ontologies: [ehdaa2, fma, xao, zfa, fbbt, ma, vsao, tao, emapa , sctid, bto, nifstd, fbbt, wbbt, mba, dmba, hba, dhba, pba, ncithesaurus, bila, caro]
 

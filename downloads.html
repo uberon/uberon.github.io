@@ -84,7 +84,11 @@ form: <pre>http://purl.obolibrary.org/obo/uberon/releases/YYYY-MM-DD</pre>
 
 <p>These are constructed using
   Uberon <a href="https://github.com/obophenotype/uberon/wiki/Taxon-constraints">taxon constraints</a>
-
+</p>
+<p>
+  Developmental stages are included, and species-specific stages start and end ranges are encoded as <a href="https://github.com/obophenotype/uberon/wiki/Evolutionary-variability-GCIs">Taxon GCIs</a>
+</p>  
+  
 <ul>
     {% for ont in site.distributions.taxon_subsets %}
     <li>
