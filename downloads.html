@@ -90,10 +90,10 @@ form: <pre>http://purl.obolibrary.org/obo/uberon/releases/YYYY-MM-DD</pre>
 </p>  
   
 <ul>
-    {% for ont in site.distributions.taxon_subsets %}
+    {% for sp in site.distributions.taxon_subsets %}
     <li>
-      <a href="http://purl.obolibrary.org/obo/uberon/subsets/{{ont}}.obo">subsets/{{ont}}.obo</a> |
-      <a href="http://purl.obolibrary.org/obo/uberon/subsets/{{ont}}.owl">subsets/{{ont}}.owl</a>
+      <a href="http://purl.obolibrary.org/obo/uberon/subsets/{{sp}}-view.obo">subsets/{{sp}}-view.obo</a> |
+      <a href="http://purl.obolibrary.org/obo/uberon/subsets/{{sp}}-view.owl">subsets/{{sp}}-view.owl</a>
     </li>
     {% endfor %}
 </ul>
